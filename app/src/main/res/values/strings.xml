@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestUser</string>
+    <string name="app_name2">Application Test</string>
+    <string name="list_user">Liste des utilisateurs</string>
+    <string name="post_user">Poste des utilisateurs</string>
+    <string name="name">Nom : </string>
+    <string name="user_name">Nom d\'utilisateurs : </string>
+    <string name="post_name">POSTE</string>
+    <string name="post_number">1</string>
+    <string name="user_email">Email : </string>
+    <string name="details_post_user_title">Titre du poste : </string>
+    <string name="details_post_user_body">Corps du poste : </string>
+</resources>
